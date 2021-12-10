@@ -9,7 +9,7 @@ const data = {
       isAdmin: true,
       isSeller: true,
       seller: {
-        name: 'Puma',
+        name: 'Pua',
         logo: '/images/logo1.png',
         description: 'best seller',
         rating: 4.5,
@@ -53,7 +53,7 @@ const data = {
       price: 220,
       countInStock: 0,
       brand: 'Lacoste',
-      rating: 4.8,
+      rating: 3.8,
       numReviews: 17,
       description: 'high quality product',
     },
